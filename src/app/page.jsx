@@ -1,3 +1,5 @@
+//p-25 dosn't work because there is no class p-25 in tailwindcss
+
 import Image from "next/image";
 
 export default function Home() {
